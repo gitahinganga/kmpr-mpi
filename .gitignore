@@ -61,6 +61,10 @@ loggingserver/oec.log.lck
 ######################
 QUEUEMANAGER_DATABASE
 
+# Configuration properties files #
+######################
+openemrconnect.properties
+
 # Eclipse #
 ###########
 .project
